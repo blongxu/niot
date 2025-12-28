@@ -3,13 +3,13 @@
 </p>
 
 <h4 align="center">
-N-Report - 白龙须 - 让报表制作更高效
+N-Iot - 白龙须 - 让物联网设备管理更高效
 </h4>
 
 <p align="center">
   <a target="_blank" href="https://www.report.bailongxu.com/">🏠 官网</a> &nbsp; | &nbsp;
   <a target="_blank" href="https://docs.report.bailongxu.com/">📖 文档</a> &nbsp; | &nbsp;
-  <a target="_blank" href="https://demo.report.bailongxu.com/commreport/">🔍 演示环境</a> &nbsp; | &nbsp;
+  <a target="_blank" href="http://nps.vsanos.com:20106/login.html">🔍 演示环境</a> &nbsp; | &nbsp;
 </p>
 
 ## 👋 项目介绍
@@ -82,13 +82,13 @@ N-Iot 是“白龙须”旗下的一款物联网设备管理系统，包含工�
 
 |     |     |
 | --- | --- |
-| 站点管理 | ![](/产品介绍/站点管理.png) |
-| 产品管理 | ![](/产品介绍/产品管理.png) |
-| 设备管理 | ![](/产品介绍/设备管理.png) |
-| 网关管理 | ![](/产品介绍/网关管理.png) |
-| 支持驱动 | ![](/产品介绍/支持驱动.png) |
-| 健康监测 | ![](/产品介绍/设备监测.png) |
-| 权限管理 | ![](/产品介绍/人员管理.png) |
+| 站点管理 | ![](/images/站点管理.png) |
+| 产品管理 | ![](/images/产品管理.png) |
+| 设备管理 | ![](/images/设备管理.png) |
+| 网关管理 | ![](/images/网关管理.png) |
+| 支持驱动 | ![](/images/支持驱动.png) |
+| 健康监测 | ![](/images/设备监测.png) |
+| 权限管理 | ![](/images/人员管理.png) |
 
 ## 🚀 上手指南
 
